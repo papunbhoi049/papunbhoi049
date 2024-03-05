@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZoMzdidDh5ZzA4bGJvemlwMXRnamxtZ2wybTRwbW9nMzM4ZHFubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lT4PnHK7iv6bkG4YdU/giphy.gif)]
+[![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
 
 <h1 align="center">Hi 👋, I'm Papun Bhoi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
