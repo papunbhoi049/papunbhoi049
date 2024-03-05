@@ -1,4 +1,4 @@
-[![MasterHead](https://www.behance.net/gallery/63700641/Computer-Programming-Software-Code-4K-Background)](https://www.behance.net/gallery/63700641/Computer-Programming-Software-Code-4K-Background){:height="300px"}
+[![MasterHead](https://www.behance.net/gallery/63700641/Computer-Programming-Software-Code-4K-Background)]{:height="300px"}
 
 <h1 align="center">Hi 👋, I'm Papun Bhoi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
